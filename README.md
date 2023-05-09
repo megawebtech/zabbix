@@ -90,3 +90,24 @@ sudo systemctl restart zabbix-server apache2 server-agent
 
 
 
+Агент zabbix установил на другую виртуальную машину (по аналогии с установкой сервера).
+Т.е. установил на машину агента без установки postgres.
+
+
+
+Скриншот что агенты подключены к серверу:
+
+https://github.com/megawebtech/zabbix/blob/main/zabbix%20agents%202.png
+
+
+ Агент zabbix работает:
+
+
+https://github.com/megawebtech/zabbix/blob/main/agent%20is%20working.png
+
+
+Данные по последним данным (видно сколько секунд назад данные были обновлены:
+
+https://github.com/megawebtech/zabbix/blob/main/latest%20data%20monitor.png
+
+
