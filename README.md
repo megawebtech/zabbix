@@ -27,3 +27,6 @@
 и в файл конфигурации агента на 2-х машинах добавил ip адрес сервера zabbix
 
 
+(https://github.com/megawebtech/zabbix/blob/main/zabbix_main_page.png)
+
+https://github.com/megawebtech/zabbix/blob/main/zabbix_3_hosts.png
